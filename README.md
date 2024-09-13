@@ -26,7 +26,6 @@
 📦 Controle de estoque
 💞 Estou procurando colaborar em projetos que desafiem minhas habilidades e proporcionem oportunidades para crescimento profissional. Sinta-se à vontade para entrar em contato!
 
-📫 **Como entrar em contato comigo:** [ alandesouzasilva04@gmail.com ] | [seu LinkedIn ou outro contato] | [+55 32 98413-8614]
 <div style="display: inline_block"><br>
   <img align="center" alt="Alan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Alan-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -35,7 +34,7 @@
   <img align="center" alt="Alan-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
   
-
+##
 
 <div>
   <a href = "mailto: alandesouzasilva04@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
