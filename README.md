@@ -22,8 +22,11 @@
 💼 Atualmente, estou desenvolvendo três projetos pessoais:
 
 🏗 Gerenciamento de obras
+##
 📊 Folha de ponto com personalização de escala
+##
 📦 Controle de estoque
+##
 💞 Estou procurando colaborar em projetos que desafiem minhas habilidades e proporcionem oportunidades para crescimento profissional. Sinta-se à vontade para entrar em contato!
 
 <div style="display: inline_block"><br>
@@ -42,7 +45,7 @@
 
   <a href="https://instagram.com/alan.s.mateus" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:alandesouzasilva04@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/alan-souza-7a016627" target="_blank"><img 
+  <a href="https://www.linkedin.com/in/alan-souza-7a016627" target="_blank">
   
 </div>
 
